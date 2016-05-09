@@ -18,7 +18,7 @@ Local, casual meetups on how to build and operate serverless architectures using
 ## Sponsorship
 
 ## Sponsors
-* (ServerlessConf)[http://serverlessconf.io/]
-* (Serverless)[http://serverless.com]
-* (A Cloud Guru)[https://acloud.guru/]
+* [ServerlessConf](http://serverlessconf.io/)
+* [Serverless](http://serverless.com)
+* [A Cloud Guru](https://acloud.guru/)
 
