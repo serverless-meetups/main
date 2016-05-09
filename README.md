@@ -13,7 +13,7 @@ Local, casual meetups on how to build and operate serverless architectures using
 * [Syndney](http://www.meetup.com/Sydney-Serverless-Meetup-Group/)
 * [Bangkok](http://www.meetup.com/Serverless-Bangkok/)
 
-## Agenda
+## Structure
 
 ## Sponsorship
 
