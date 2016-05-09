@@ -1,4 +1,4 @@
-![serverless meetups learn workshops architectures](art/logo_serverless_meetups.png)
+![serverless meetups learn workshops architectures](art/readme_serverless_meetups.png)
 
 # Serverless Meetups
 
