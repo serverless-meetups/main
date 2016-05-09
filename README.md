@@ -1,4 +1,4 @@
-![serverless meetups learn workshops architectures](img/logo_serverless_meetups.png)
+![serverless meetups learn workshops architectures](art/logo_serverless_meetups.png)
 
 # Serverless Meetups
 
@@ -16,3 +16,4 @@ Local, casual meetups on how to build and operate serverless architectures using
 ## Agenda
 
 ## Sponsorship
+
