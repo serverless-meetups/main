@@ -2,6 +2,8 @@
 
 # Serverless Meetups
 
+Local, casual meetups on how to build and operate serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions, IBM OpenWhisk and more!
+
 ## Locations
 
 * [San Francisco](http://www.meetup.com/serverless/)
