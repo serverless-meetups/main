@@ -15,6 +15,7 @@ Local, community-driven meetups on how to build and operate serverless architect
 * [Sydney](http://www.meetup.com/Sydney-Serverless-Meetup-Group/)
 * [Bangkok](http://www.meetup.com/Serverless-Bangkok/)
 * [Madrid](http://www.meetup.com/es/Madrid-Serverless-Meetup/)
+
 ## Structure
 
 ## Sponsorship
