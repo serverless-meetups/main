@@ -13,6 +13,7 @@ Local, community-driven meetups on how to build and operate serverless architect
 * [Berlin](http://www.meetup.com/Serverless-Berlin/)
 * [Melbourne](http://www.meetup.com/Melbourne-Serverless-Meetup-Group/)
 * [Sydney](http://www.meetup.com/Sydney-Serverless-Meetup-Group/)
+* [Brisbane](http://www.meetup.com/Brisbane-Serverless-Meetup-Group/)
 * [Bangkok](http://www.meetup.com/Serverless-Bangkok/)
 
 ## Structure
