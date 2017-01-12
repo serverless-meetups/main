@@ -11,6 +11,7 @@ Local, community-driven meetups on how to build and operate serverless architect
 * [New York](http://www.meetup.com/Serverless-NYC/)
 * [London](http://www.meetup.com/Serverless-London/)
 * [Berlin](http://www.meetup.com/Serverless-Berlin/)
+* [Helsinki](https://www.meetup.com/Helsinki-Serverless/)
 * [Melbourne](http://www.meetup.com/Melbourne-Serverless-Meetup-Group/)
 * [Sydney](http://www.meetup.com/Sydney-Serverless-Meetup-Group/)
 * [Bangkok](http://www.meetup.com/Serverless-Bangkok/)
